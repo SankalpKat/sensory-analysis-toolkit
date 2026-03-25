@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+openpyxl
+scipy
+fpdf2
+supabase==2.10.0
+python-dotenv
+websockets==13.0

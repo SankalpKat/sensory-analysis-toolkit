@@ -1,0 +1,4 @@
+.env
+test_connection.py
+__pycache__/
+*.pyc
