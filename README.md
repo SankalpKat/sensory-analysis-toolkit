@@ -1,5 +1,5 @@
 # 🧪 Sensory Analysis Toolkit
-
+**Live app:** [sensory-analysis-toolkit.streamlit.app](https://sensory-analysis-toolkit.streamlit.app)
 Open-source double-blind randomized sensory trial designer for food scientists.
 
 Plan, blind, and run consumer sensory trials without expensive software. Generates trial designs, blinding codes, panelist ballots, and digital survey links — all from a single web app.
